@@ -1,0 +1,2 @@
+# dinamicagit
+Dinamica de grupo
